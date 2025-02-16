@@ -1,4 +1,4 @@
-# Lab 04: Programming on Member Functions, Inline Functions and Default Arguments (Part 2)
+# Lab 04: Inline Function and Friend Function
 
 ## Inline Function
 C++ proposes new feature called inline function. An inline function is a function that is expanded in line when it is invoked. That is the compiler replaces the function call with the corresponding function code.
@@ -11,6 +11,18 @@ inline function_name(/*Arguments*/) {
 ```
 
 Remember that it is a request to the compiler not a command so, the compiler has power to deny.
+
+---
+
+## Friend Function
+The outside fucntion cannot access the private data of the class but there could be situation where we could like two classes to share a particular data. C++ allow the common function to have access to the private data od the class. Such a function may or maynot be the member of any of the classes. To make an outside function "friendly" to a class, we have to simply declare that function as friend of the class.
+
+**Syntax:**
+```c++
+friend return_type function_name(arguments);
+```
+
+It should be noted that a function defination doesn't use friend keyword or scope resolution operator (`::`). A function can be declared as friend in any number of classes. A friend function, although not a member function has full access right to the private member of the class.
 
 ---
 
