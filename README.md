@@ -1,11 +1,11 @@
 # 🧠 Object-Oriented Programming in C++ Notes  
-*A comprehensive, syllabus-aligned resource for Pokhara University’s CMP 162 course*  
+*A comprehensive, syllabus-aligned resource for Pokhara University’s CMP 162 course* 
 
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?logo=cplusplus) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/KushalPrasadJoshi/programming-in-c/pulls)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-**Designed for clarity** with **real-world examples**, **diagrams**, and **hands-on projects**.  
+**Designed for clarity** with **real-world examples**, **diagrams**, and **hands-on projects**. This work is an independent effort by **Kushal Prasad Joshi**, inspired by the curriculum of **Pokhara University**, and is intended to support students in their academic journey. While based on the university's course structure, this handbook is not officially affiliated with or endorsed by **Pokhara University**.
 
 ---
 
