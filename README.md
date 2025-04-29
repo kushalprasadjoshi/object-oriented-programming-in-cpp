@@ -1,9 +1,8 @@
 # 🧠 Object-Oriented Programming in C++ Notes  
 *A comprehensive, syllabus-aligned resource for Pokhara University’s CMP 162 course* 
 
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?logo=cplusplus) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/KushalPrasadJoshi/programming-in-c/pulls)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue?logo=cplusplus)
+![Status](https://img.shields.io/badge/Status-Inactive-red)
 
 **Designed for clarity** with **real-world examples**, **diagrams**, and **hands-on projects**. This work is an independent effort by **Kushal Prasad Joshi**, inspired by the curriculum of **Pokhara University**, and is intended to support students in their academic journey. While based on the university's course structure, this work is not officially affiliated with or endorsed by **Pokhara University**.
 
@@ -69,15 +68,16 @@ cpp-oop-notes/
 
 ---
 
+<!--
 ## 🤝 Contribution  
 1. Found a typo? [Open an Issue](https://github.com/KushalPrasadJoshi/object-oriented-programming-in-c++/issues).  
-2. Use [GitHub Discussions](https://github.com/KushalPrasadJoshi/object-oriented-programming-in-c++/discussions) for Q&A.  
+2. Use [GitHub Discussions](https://github.com/KushalPrasadJoshi/object-oriented-programming-in-c++/discussions) for Q&A.
+-->
 
 ---
 
 ## 📜 License  
-**All Rights Reserved**  
-This repository is for personal, educational, and non-commercial use only. Modifying, distributing, or using this content for commercial purposes is strictly prohibited without explicit permission. For details, see [LICENSE](LICENSE).  
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, provided that the original copyright notice and license text are included in all copies or substantial portions of the Software. 
 
 ---
 
